@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/salidor/workspace/nature/ti_CC3235SF/cloud_ota'
+make: Leaving directory '/home/salidor/workspace/nature/ti_CC3235SF/cloud_ota'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
